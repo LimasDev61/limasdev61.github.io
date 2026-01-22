@@ -1,0 +1,16 @@
+@import "{{ site.theme }}";
+
+.page-header {
+    padding: 2rem 1rem;
+    text-align: center;
+    background-color: black;
+
+    .project-name {
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+        font-size: 18rem;
+        font-weight: bold;
+        
+    }
+    
+}
