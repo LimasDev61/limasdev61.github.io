@@ -10,6 +10,9 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 highlighter: rouge
 
+sass:
+  sass_dir: _sass
+  
 # Caminhos
 baseurl: ""
 url: "https://LimasDev61.github.io"
