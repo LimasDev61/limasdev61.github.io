@@ -1,0 +1,15 @@
+# Informações do Site
+title: LimasDev61 | Estudos de Engenharia de Software
+description: Repositório de códigos e artigos sobre Python, POO e desenvolvimento.
+email: seu-email@exemplo.com # Opcional
+
+# Configurações de Aparência
+theme: jekyll-theme-cayman
+
+# Configurações de Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Caminhos
+baseurl: ""
+url: "https://LimasDev61.github.io"
