@@ -5,14 +5,21 @@
 .page-header {
     padding: 2rem 1rem;
     text-align: center;
-    background-color: black;
+    background-color: #000000;
+    background-image: none;
 
     .project-name {
         font-family: 'Courier New', Courier, monospace;
-        color: white;
-        font-size: 1rem;
+        color: #00FF41;
+        font-size: 2.5rem;
         font-weight: bold;
-        
     }
     
+    .project-tagline {
+        font-size: 1rem;
+        font-family: 'Courier New', Courier, monospace;
+        color: #ffffff;
+        opacity: 0.7;
+        margin-top: 0.5rem
+    }
 }
